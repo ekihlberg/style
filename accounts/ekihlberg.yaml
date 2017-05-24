@@ -1,0 +1,11 @@
+email: emma_kihlberg@hotmail.com
+fullname: Ekihlberg
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$ETVQfK2epjs0RLi8WBOFC.AYuSc3xMUk.J9ZKgQ5GV1NuZWQ1F73m
